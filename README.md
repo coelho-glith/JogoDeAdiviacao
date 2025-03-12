@@ -9,7 +9,7 @@ jogo de adiviação de números
 - Gerador Aleatório: O sistema gera um número aleatório para adivinhar.
 - Menu de interface: Para ficar bonito e mais fácil de entender.
 - Número de tentativas: se pode escolher a dificuldade de tentativas.
-- Sistema de quente e frio: ele avisa se o número é maior ou menor que o número secreto.
+- Sistema de quente e frio: ele avisa se o número é maior ou menor que o número secreto, que vai do 1 até 20.
   
 Como utilizar
 ---
