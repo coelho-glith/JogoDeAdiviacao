@@ -14,25 +14,25 @@ jogo de adiviação de números
 Como utilizar
 ---
 ## Clone o Repositório
-´´´
+```
 git clone https://github.com/coelho-glith/JogoDeAdiviacao.git
-´´´
+```
 ## Navegue até a pasta raiz da solução
-´´´
+```
 cd JogoDeadiviacao
-´´´
+```
 ## Restaure as dependências
-´´´
+```
 dotnet restore
-´´´
+```
 ## Navegue até a pasta do projeto
-´´´
+```
 cd JogoDeadiviacao.ConsoleApp
-´´´
+```
 ## Execute o projeto
-´´´
+```
 dotnet run
-´´´
+```
 
 ## Requisitos
 ---
